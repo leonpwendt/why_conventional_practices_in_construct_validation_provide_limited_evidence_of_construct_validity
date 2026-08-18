@@ -1,6 +1,6 @@
 # ================================================================
 # R code for the manuscript:
-# "Why Conventional Methods in Construct Validation Provide
+# "Why Conventional Practices in Construct Validation Provide
 #  Limited Evidence of Construct Validity"
 # ================================================================
 #
